@@ -21,6 +21,7 @@
  */
 
 var _ = require('underscore');
+var BigNumber = require('bignumber.js');
 var BN = require('bn.js');
 var numberToBN = require('number-to-bn');
 var utf8 = require('utf8');
@@ -47,7 +48,7 @@ var isBN = function (object) {
  * @return {Boolean}
  */
 var isBigNumber = function (object) {
-    return object && object.constructor && object.constructor.name === 'BigNumber';
+    return BigNumber.isBigNumber(object);
 };
 
 /**
