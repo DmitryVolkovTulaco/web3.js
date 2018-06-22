@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef6dfbf-a7cb-4b9c-9fe2-ec6b71f16287" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/utils.js" afterPath="$PROJECT_DIR$/lib/utils/utils.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="utils.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/utils/utils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="514" column="41" lean-forward="false" selection-start-line="514" selection-start-column="41" selection-end-line="514" selection-end-column="41" />
+            <state relative-caret-position="317">
+              <caret line="515" column="117" lean-forward="false" selection-start-line="515" selection-start-column="117" selection-end-line="515" selection-end-column="117" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -72,6 +73,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,8 +97,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,12 +128,13 @@
       <option name="presentableId" value="Default" />
       <updated>1529678435136</updated>
       <workItem from="1529678436551" duration="35000" />
-      <workItem from="1529678506127" duration="37000" />
+      <workItem from="1529678506127" duration="60000" />
+      <workItem from="1529679143410" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72000" />
+    <option name="totallyTimeSpent" value="101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -181,8 +183,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/utils/utils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="514" column="41" lean-forward="false" selection-start-line="514" selection-start-column="41" selection-end-line="514" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="515" column="117" lean-forward="false" selection-start-line="515" selection-start-column="117" selection-end-line="515" selection-end-column="117" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
