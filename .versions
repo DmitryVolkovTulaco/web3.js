@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ethereum:web3@0.20.5
+=======
+ethereum:web3@1.0.0-beta.34
+>>>>>>> 1.0
 meteor@1.8.2
