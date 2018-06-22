@@ -48,6 +48,7 @@ var isBN = function (object) {
  * @return {Boolean}
  */
 var isBigNumber = function (object) {
+    console.log('isBigNumber');
     return BigNumber.isBigNumber(object);
 };
 

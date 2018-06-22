@@ -45560,6 +45560,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
        * @return {Boolean}
        */
       var isBigNumber = function isBigNumber(object) {
+        console.log('isBigNumber');
         return BigNumber.isBigNumber(object);
       };
 
